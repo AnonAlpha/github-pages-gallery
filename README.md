@@ -38,6 +38,8 @@ You can chose from any of the theme below to set the value for theme key:
 
 You can learn more about the configuration file here: https://thumbsup.github.io/docs/3-configuration/usage/. Click on the commit changes button below the page.
 
+**Travis CI has a build limit of 50mins. So if you want to use Circle CI instead of Travius CI, Please go to circle-ci-readme.md  for more instructions**
+
 4. Create a new account at https://travis-ci.org. Grand all access permission to Github account while signing up.
 5. After signing in enable the repo by toggling the switch:
 ![travis](https://user-images.githubusercontent.com/8397274/47970260-33ec0200-e0a9-11e8-99e0-c94fe41034cf.gif)
